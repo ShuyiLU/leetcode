@@ -1,10 +1,10 @@
 # Keep thinking, keep alive
-Until 2019-10-28 14:33:22, I have solved **254** / **1147** problems while **195** are still locked.
+Until 2019-11-01 10:43:40, I have solved **272** / **1147** problems while **195** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
-3. C++: 267
+3. C++: 286
 4. Java: 0
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -122,12 +122,12 @@ Note: :lock: means you need to buy a book from LeetCode
 |107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/) |Easy|To Do|To Do|To Do|To Do|
 |108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/) |Easy|To Do|To Do|[C++](https://github.com/ShuyiLU/leetcode/blob/master/leetcode-algorithms/1087.%20Brace%20Expansio\1087. Brace Expansion.cpp)|To Do|
 |109|[Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/description/) |Medium|To Do|To Do|[C++](https://github.com/ShuyiLU/leetcode/blob/master/leetcode-algorithms/1094.%20Car%20Poolin\1094. Car Pooling.cpp)|To Do|
-|110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/) |Easy|To Do|To Do|[C++](https://github.com/ShuyiLU/leetcode/blob/master/leetcode-algorithms/110.%20Balanced%20Binary%20Tre\110. Balanced Binary Tree.cpp)|To Do|
+|110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/) |Easy|To Do|To Do|[C++](https://github.com/ShuyiLU/leetcode/blob/master/leetcode-algorithms/1105.%20Filling%20Bookcase%20Shelve\1105. Filling Bookcase Shelves.cpp)|To Do|
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/) |Easy|To Do|To Do|[C++](https://github.com/ShuyiLU/leetcode/blob/master/leetcode-algorithms/1110.%20Delete%20Nodes%20And%20Return%20Fores\1110. Delete Nodes And Return Forest.cpp)|To Do|
 |112|[Path Sum](https://leetcode.com/problems/path-sum/description/) |Easy|To Do|To Do|[C++](https://github.com/ShuyiLU/leetcode/blob/master/leetcode-algorithms/1129.%20Shortest%20Path%20with%20Alternating%20Color\5132. Shortest Path with Alternating Colors.cpp)|To Do|
 |113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/description/) |Medium|To Do|To Do|[C++](https://github.com/ShuyiLU/leetcode/blob/master/leetcode-algorithms/113.%20Path%20Sum%20I\113. Path Sum II.cpp)|To Do|
 |114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/) |Medium|To Do|To Do|[C++](https://github.com/ShuyiLU/leetcode/blob/master/leetcode-algorithms/1145.%20Binary%20Tree%20Coloring%20Gam\1145.cpp)|To Do|
-|115|[Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/description/) |Hard|To Do|To Do|To Do|To Do|
+|115|[Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/description/) |Hard|To Do|To Do|[C++](https://github.com/ShuyiLU/leetcode/blob/master/leetcode-algorithms/1155.%20Number%20of%20Dice%20Rolls%20With%20Target%20Su\Number of Dice Rolls With Target Sum    .cpp)|To Do|
 |116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/description/) |Medium|To Do|To Do|[C++](https://github.com/ShuyiLU/leetcode/blob/master/leetcode-algorithms/1160.%20Find%20Words%20That%20Can%20Be%20Formed%20by%20Character\1160. Find Words That Can Be Formed by Characters.cpp)|To Do|
 |117|[Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/description/) |Medium|To Do|To Do|[C++](https://github.com/ShuyiLU/leetcode/blob/master/leetcode-algorithms/117.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node%20I\117. Populating Next Right Pointers in Each Node II.cpp)|To Do|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/) |Easy|To Do|To Do|[C++](https://github.com/ShuyiLU/leetcode/blob/master/leetcode-algorithms/1186.%20Maximum%20Subarray%20Sum%20with%20One%20Deletio\1186.cpp)|To Do|
@@ -799,10 +799,10 @@ Note: :lock: means you need to buy a book from LeetCode
 |840|[Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid/description/) |Easy|To Do|To Do|To Do|To Do|
 |841|[Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/description/) |Medium|To Do|To Do|[C++](https://github.com/ShuyiLU/leetcode/blob/master/leetcode-algorithms/841.%20Keys%20and%20Room\841. Keys and Rooms.cpp)|To Do|
 |842|[Split Array into Fibonacci Sequence](https://leetcode.com/problems/split-array-into-fibonacci-sequence/description/) |Medium|To Do|To Do|To Do|To Do|
-|843|[Guess the Word](https://leetcode.com/problems/guess-the-word/description/) |Hard|To Do|To Do|To Do|To Do|
+|843|[Guess the Word](https://leetcode.com/problems/guess-the-word/description/) |Hard|To Do|To Do|[C++](https://github.com/ShuyiLU/leetcode/blob/master/leetcode-algorithms/843.%20Guess%20the%20Wor\843. Guess the Word.cpp)|To Do|
 |844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/description/) |Easy|To Do|To Do|[C++](https://github.com/ShuyiLU/leetcode/blob/master/leetcode-algorithms/844.%20Backspace%20String%20Compar\844. Backspace String Compare.cpp)|To Do|
-|845|[Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/description/) |Medium|To Do|To Do|To Do|To Do|
-|846|[Hand of Straights](https://leetcode.com/problems/hand-of-straights/description/) |Medium|To Do|To Do|To Do|To Do|
+|845|[Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/description/) |Medium|To Do|To Do|[C++](https://github.com/ShuyiLU/leetcode/blob/master/leetcode-algorithms/845.%20Longest%20Mountain%20in%20Arra\845. Longest Mountain in Array.cpp)|To Do|
+|846|[Hand of Straights](https://leetcode.com/problems/hand-of-straights/description/) |Medium|To Do|To Do|[C++](https://github.com/ShuyiLU/leetcode/blob/master/leetcode-algorithms/846.%20Hand%20of%20Straight\846. Hand of Straights.cpp)|To Do|
 |847|[Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/description/) |Hard|To Do|To Do|To Do|To Do|
 |848|[Shifting Letters](https://leetcode.com/problems/shifting-letters/description/) |Medium|To Do|To Do|To Do|To Do|
 |849|[Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/description/) |Easy|To Do|To Do|[C++](https://github.com/ShuyiLU/leetcode/blob/master/leetcode-algorithms/849.%20Maximize%20Distance%20to%20Closest%20Perso\849. Maximize Distance to Closest Person.cpp)|To Do|
@@ -819,7 +819,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |860|[Lemonade Change](https://leetcode.com/problems/lemonade-change/description/) |Easy|To Do|To Do|[C++](https://github.com/ShuyiLU/leetcode/blob/master/leetcode-algorithms/860.%20Lemonade%20Chang\860. Lemonade Change.cpp)|To Do|
 |861|[Score After Flipping Matrix](https://leetcode.com/problems/score-after-flipping-matrix/description/) |Medium|To Do|To Do|To Do|To Do|
 |862|[Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/description/) |Hard|To Do|To Do|To Do|To Do|
-|863|[All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/description/) |Medium|To Do|To Do|To Do|To Do|
+|863|[All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/description/) |Medium|To Do|To Do|[C++](https://github.com/ShuyiLU/leetcode/blob/master/leetcode-algorithms/863.%20All%20Nodes%20Distance%20K%20in%20Binary%20Tre\863. All Nodes Distance K in Binary Tree.cpp)|To Do|
 |710|[Random Pick with Blacklist](https://leetcode.com/problems/random-pick-with-blacklist/description/) |Hard|To Do|To Do|To Do|To Do|
 |864|[Shortest Path to Get All Keys](https://leetcode.com/problems/shortest-path-to-get-all-keys/description/) |Hard|To Do|To Do|To Do|To Do|
 |865|[Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/description/) |Medium|To Do|To Do|To Do|To Do|
@@ -866,7 +866,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |901|[Online Stock Span](https://leetcode.com/problems/online-stock-span/description/) |Medium|To Do|To Do|To Do|To Do|
 |902|[Numbers At Most N Given Digit Set](https://leetcode.com/problems/numbers-at-most-n-given-digit-set/description/) |Hard|To Do|To Do|To Do|To Do|
 |903|[Valid Permutations for DI Sequence](https://leetcode.com/problems/valid-permutations-for-di-sequence/description/) |Hard|To Do|To Do|To Do|To Do|
-|904|[Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/description/) |Medium|To Do|To Do|[C++](https://github.com/ShuyiLU/leetcode/blob/master/leetcode-algorithms/904.%20Fruit%20Into%20Basket\904. Fruit Into Baskets.cpp)|To Do|
+|904|[Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/description/) |Medium|To Do|To Do|[C++](https://github.com/ShuyiLU/leetcode/blob/master/leetcode-algorithms/904.%20Fruit%20Into%20Basket\v2.cpp)|To Do|
 |905|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/description/) |Easy|To Do|To Do|To Do|To Do|
 |906|[Super Palindromes](https://leetcode.com/problems/super-palindromes/description/) |Hard|To Do|To Do|To Do|To Do|
 |907|[Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/description/) |Medium|To Do|To Do|To Do|To Do|
@@ -885,21 +885,21 @@ Note: :lock: means you need to buy a book from LeetCode
 |920|[Number of Music Playlists](https://leetcode.com/problems/number-of-music-playlists/description/) |Hard|To Do|To Do|To Do|To Do|
 |921|[Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/description/) |Medium|To Do|To Do|To Do|To Do|
 |922|[Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/description/) |Easy|To Do|To Do|To Do|To Do|
-|923|[3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/description/) |Medium|To Do|To Do|To Do|To Do|
+|923|[3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/description/) |Medium|To Do|To Do|[C++](https://github.com/ShuyiLU/leetcode/blob/master/leetcode-algorithms/923.%203Sum%20With%20Multiplicit\923. 3Sum With Multiplicity.cpp)|To Do|
 |924|[Minimize Malware Spread](https://leetcode.com/problems/minimize-malware-spread/description/) |Hard|To Do|To Do|To Do|To Do|
 |925|[Long Pressed Name](https://leetcode.com/problems/long-pressed-name/description/) |Easy|To Do|To Do|To Do|To Do|
-|926|[Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/description/) |Medium|To Do|To Do|To Do|To Do|
+|926|[Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/description/) |Medium|To Do|To Do|[C++](https://github.com/ShuyiLU/leetcode/blob/master/leetcode-algorithms/926.%20Flip%20String%20to%20Monotone%20Increasin\926. Flip String to Monotone Increasing.cpp)|To Do|
 |927|[Three Equal Parts](https://leetcode.com/problems/three-equal-parts/description/) |Hard|To Do|To Do|To Do|To Do|
 |928|[Minimize Malware Spread II](https://leetcode.com/problems/minimize-malware-spread-ii/description/) |Hard|To Do|To Do|To Do|To Do|
 |929|[Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/description/) |Easy|To Do|To Do|[C++](https://github.com/ShuyiLU/leetcode/blob/master/leetcode-algorithms/929.%20Unique%20Email%20Addresse\929. Unique Email Addresses.cpp)|To Do|
 |930|[Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/description/) |Medium|To Do|To Do|To Do|To Do|
-|931|[Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/description/) |Medium|To Do|To Do|To Do|To Do|
+|931|[Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/description/) |Medium|To Do|To Do|[C++](https://github.com/ShuyiLU/leetcode/blob/master/leetcode-algorithms/931.%20Minimum%20Falling%20Path%20Su\931. Minimum Falling Path Sum.cpp)|To Do|
 |932|[Beautiful Array](https://leetcode.com/problems/beautiful-array/description/) |Medium|To Do|To Do|To Do|To Do|
 |933|[Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/description/) |Easy|To Do|To Do|To Do|To Do|
 |934|[Shortest Bridge](https://leetcode.com/problems/shortest-bridge/description/) |Medium|To Do|To Do|[C++](https://github.com/ShuyiLU/leetcode/blob/master/leetcode-algorithms/934.%20Shortest%20Bridg\934. Shortest Bridge.cpp)|To Do|
 |935|[Knight Dialer](https://leetcode.com/problems/knight-dialer/description/) |Medium|To Do|To Do|To Do|To Do|
 |936|[Stamping The Sequence](https://leetcode.com/problems/stamping-the-sequence/description/) |Hard|To Do|To Do|To Do|To Do|
-|937|[Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/description/) |Easy|To Do|To Do|To Do|To Do|
+|937|[Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/description/) |Easy|To Do|To Do|[C++](https://github.com/ShuyiLU/leetcode/blob/master/leetcode-algorithms/937.%20Reorder%20Data%20in%20Log%20File\937. Reorder Data in Log Files.cpp)|To Do|
 |938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/description/) |Easy|To Do|To Do|To Do|To Do|
 |939|[Minimum Area Rectangle](https://leetcode.com/problems/minimum-area-rectangle/description/) |Medium|To Do|To Do|[C++](https://github.com/ShuyiLU/leetcode/blob/master/leetcode-algorithms/939.%20Minimum%20Area%20Rectangl\939. Minimum Area Rectangle.cpp)|To Do|
 |940|[Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/description/) |Hard|To Do|To Do|To Do|To Do|
@@ -913,14 +913,14 @@ Note: :lock: means you need to buy a book from LeetCode
 |948|[Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/description/) |Medium|To Do|To Do|To Do|To Do|
 |949|[Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/description/) |Easy|To Do|To Do|To Do|To Do|
 |950|[Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/description/) |Medium|To Do|To Do|To Do|To Do|
-|951|[Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/description/) |Medium|To Do|To Do|To Do|To Do|
+|951|[Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/description/) |Medium|To Do|To Do|[C++](https://github.com/ShuyiLU/leetcode/blob/master/leetcode-algorithms/951.%20Flip%20Equivalent%20Binary%20Tree\951. Flip Equivalent Binary Trees.cpp)|To Do|
 |952|[Largest Component Size by Common Factor](https://leetcode.com/problems/largest-component-size-by-common-factor/description/) |Hard|To Do|To Do|To Do|To Do|
 |953|[Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/description/) |Easy|To Do|To Do|To Do|To Do|
 |954|[Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/description/) |Medium|To Do|To Do|[C++](https://github.com/ShuyiLU/leetcode/blob/master/leetcode-algorithms/954.%20Array%20of%20Doubled%20Pair\954. Array of Doubled Pairs.cpp)|To Do|
 |955|[Delete Columns to Make Sorted II](https://leetcode.com/problems/delete-columns-to-make-sorted-ii/description/) |Medium|To Do|To Do|To Do|To Do|
 |956|[Tallest Billboard](https://leetcode.com/problems/tallest-billboard/description/) |Hard|To Do|To Do|To Do|To Do|
 |957|[Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/description/) |Medium|To Do|To Do|[C++](https://github.com/ShuyiLU/leetcode/blob/master/leetcode-algorithms/957.%20Prison%20Cells%20After%20N%20Day\957. Prison Cells After N Days.cpp)|To Do|
-|958|[Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/description/) |Medium|To Do|To Do|To Do|To Do|
+|958|[Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/description/) |Medium|To Do|To Do|[C++](https://github.com/ShuyiLU/leetcode/blob/master/leetcode-algorithms/958.%20Check%20Completeness%20of%20a%20Binary%20Tre\958. Check Completeness of a Binary Tree.cpp)|To Do|
 |959|[Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes/description/) |Medium|To Do|To Do|[C++](https://github.com/ShuyiLU/leetcode/blob/master/leetcode-algorithms/959.%20Regions%20Cut%20By%20Slashe\959. Regions Cut By Slashes.cpp)|To Do|
 |960|[Delete Columns to Make Sorted III](https://leetcode.com/problems/delete-columns-to-make-sorted-iii/description/) |Hard|To Do|To Do|To Do|To Do|
 |961|[N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/description/) |Easy|To Do|To Do|To Do|To Do|
@@ -937,17 +937,17 @@ Note: :lock: means you need to buy a book from LeetCode
 |972|[Equal Rational Numbers](https://leetcode.com/problems/equal-rational-numbers/description/) |Hard|To Do|To Do|To Do|To Do|
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/) |Easy|To Do|To Do|To Do|To Do|
 |973|[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/description/) |Medium|To Do|To Do|[C++](https://github.com/ShuyiLU/leetcode/blob/master/leetcode-algorithms/973.%20K%20Closest%20Points%20to%20Origi\973. K Closest Points to Origin.cpp)|To Do|
-|974|[Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/description/) |Medium|To Do|To Do|To Do|To Do|
+|974|[Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/description/) |Medium|To Do|To Do|[C++](https://github.com/ShuyiLU/leetcode/blob/master/leetcode-algorithms/974.%20Subarray%20Sums%20Divisible%20by\974. Subarray Sums Divisible by K.cpp)|To Do|
 |975|[Odd Even Jump](https://leetcode.com/problems/odd-even-jump/description/) |Hard|To Do|To Do|[C++](https://github.com/ShuyiLU/leetcode/blob/master/leetcode-algorithms/975.%20Odd%20Even%20Jum\975. Odd Even Jump.cpp)|To Do|
 |976|[Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/description/) |Easy|To Do|To Do|To Do|To Do|
-|977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/) |Easy|To Do|To Do|To Do|To Do|
-|978|[Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/description/) |Medium|To Do|To Do|To Do|To Do|
+|977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/) |Easy|To Do|To Do|[C++](https://github.com/ShuyiLU/leetcode/blob/master/leetcode-algorithms/977.%20Squares%20of%20a%20Sorted%20Arra\977. Squares of a Sorted Array.cpp)|To Do|
+|978|[Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/description/) |Medium|To Do|To Do|[C++](https://github.com/ShuyiLU/leetcode/blob/master/leetcode-algorithms/978.%20Longest%20Turbulent%20Subarra\978. Longest Turbulent Subarray.cpp)|To Do|
 |979|[Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/description/) |Medium|To Do|To Do|[C++](https://github.com/ShuyiLU/leetcode/blob/master/leetcode-algorithms/979.%20Distribute%20Coins%20in%20Binary%20Tre\979. Distribute Coins in Binary Tree.cpp)|To Do|
 |980|[Unique Paths III](https://leetcode.com/problems/unique-paths-iii/description/) |Hard|To Do|To Do|To Do|To Do|
 |981|[Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/description/) |Medium|To Do|To Do|[C++](https://github.com/ShuyiLU/leetcode/blob/master/leetcode-algorithms/981.%20Time%20Based%20Key-Value%20Stor\981. Time Based Key-Value Store.cpp)|To Do|
 |982|[Triples with Bitwise AND Equal To Zero](https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/description/) |Hard|To Do|To Do|To Do|To Do|
 |983|[Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/description/) |Medium|To Do|To Do|[C++](https://github.com/ShuyiLU/leetcode/blob/master/leetcode-algorithms/983.%20Minimum%20Cost%20For%20Ticket\983. Minimum Cost For Tickets.cpp)|To Do|
-|984|[String Without AAA or BBB](https://leetcode.com/problems/string-without-aaa-or-bbb/description/) |Medium|To Do|To Do|To Do|To Do|
+|984|[String Without AAA or BBB](https://leetcode.com/problems/string-without-aaa-or-bbb/description/) |Medium|To Do|To Do|[C++](https://github.com/ShuyiLU/leetcode/blob/master/leetcode-algorithms/984.%20String%20Without%20AAA%20or%20BB\984. String Without AAA or BBB.cpp)|To Do|
 |985|[Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/description/) |Easy|To Do|To Do|To Do|To Do|
 |986|[Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/description/) |Medium|To Do|To Do|[C++](https://github.com/ShuyiLU/leetcode/blob/master/leetcode-algorithms/986.%20Interval%20List%20Intersection\986. Interval List Intersections.cpp)|To Do|
 |987|[Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/description/) |Medium|To Do|To Do|To Do|To Do|
