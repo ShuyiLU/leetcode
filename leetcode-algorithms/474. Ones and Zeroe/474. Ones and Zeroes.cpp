@@ -38,3 +38,42 @@ public:
 		return dp[m][n][size-1];
     }
 };
+
+class Solution {
+public:
+    int findMaxForm(vector<string>& strs, int m, int n) {
+		int size = strs.size();
+		if(size == 0) return 0;
+		vector<vector<int>> cnt(size, vector<int>(2, 0));
+		for(int i=0; i<size; i++){
+			string st = strs[i];
+			for(int j=0; j<st.length(); j++){
+				if(st[j] == '0') cnt[i][0]++;
+				if(st[j] == '1') cnt[i][1]++;
+			}
+		}
+        vector<vector<int>> dp(m+1, vector<int>(n+1, 0));
+		
+		for(int count=0; count<size; count++){
+			int c0 = cnt[count][0];
+			int c1 = cnt[count][1];
+			for(int i=m; i>=0; i--){
+				for(int j=n; j>=0; j--){
+					if(i >= c0 && j>= c1){
+						if(count == 0) dp[i][j] = 1;
+						else{
+							dp[i][j] = max(dp[i][j], 1+dp[i-c0][j-c1]);
+							//i个0， j个1，组成到第count个时最大的单词数
+							//放进第count个字串单词多还是原来单词数更多
+						}
+					}
+					else{
+						if(count == 0) dp[i][j] = 0;
+						else dp[i][j] = dp[i][j];
+					}
+				}
+			}
+		}
+		return dp[m][n];
+    }
+};
